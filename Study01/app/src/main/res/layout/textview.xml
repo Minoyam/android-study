@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_bluetooth_black_24dp"
+        android:drawablePadding="8dp"
+        android:drawableTint="#0F0"
+        android:text="블루투스 켜기"
+        android:textColor="#000"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:lines="2"
+        android:maxLines="3"
+        android:minLines="2"
+        android:text="그들은 그림자는 반짝이는 가는 이것이다. 낙원을 영락과 것은 아니더면, 무엇을 인간은 것이다. 그러므로 위하여, 못하다 장식하는 품에 튼튼하며, 가는 풍부하게 그것은 말이다. 모래뿐일 들어 이상은 더운지라 피고, 하였으며, 반짝이는 인간이 그리하였는가?" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="end"
+        android:text="안드로이드 2주차" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:lineSpacingExtra="10dp"
+        android:text="그들은 그림자는 반짝이는 가는 이것이다. 낙원을 영락과 것은 아니더면, 무엇을 인간은 것이다. 그러므로 위하여, 못하다 장식하는 품에 튼튼하며, 가는 풍부하게 그것은 말이다. 모래뿐일 들어 이상은 더운지라 피고, 하였으며, 반짝이는 인간이 그리하였는가?" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxHeight="120dp"
+        android:minWidth="80dp"
+        android:text="그들은 그림자는 반짝이는 가는 이것이다. 낙원을 영락과 것은 아니더면, 무엇을 인간은 것이다. 그러므로 위하여, 못하다 장식하는 품에 튼튼하며, 가는 풍부하게 그것은 말이다. 모래뿐일 들어 이상은 더운지라 피고, 하였으며, 반짝이는 인간이 그리하였는가?" />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="100dp"
+        android:imeOptions="normal"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_bluetooth_black_24dp"
+        android:drawablePadding="20dp"
+        android:drawableTint="#0f0"
+        android:text="블루투스 켜기"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="6"
+        android:lineSpacingExtra="10dp"
+        android:text="그들은 그림자는 반짝이는 가는 이것이다. 낙원을 영락과 것은 아니더면, 무엇을 인간은 것이다. 그러므로 위하여, 못하다 장식하는 품에 튼튼하며, 가는 풍부하게 그것은 말이다. 모래뿐일 들어 이상은 더운지라 피고, 하였으며, 반짝이는 인간이 그리하였는가?" />
+
+</LinearLayout>
